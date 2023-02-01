@@ -4,6 +4,7 @@
   padding: 30px;
 }
 .itemProduct {
+  cursor: pointer;
   flex: 1 0 calc(25% - 10px);
   margin-right: 10px;
   display: flex;
@@ -24,7 +25,4 @@
 .price {
   font-weight: bold;
   padding: 0px 10px;
-}
-
-.footer {
 }

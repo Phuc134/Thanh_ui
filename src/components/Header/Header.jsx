@@ -8,11 +8,14 @@ export default function Header() {
         <Link to="/" className="itemLeftHeader">
           Trang chủ
         </Link>
-        <Link to="/profile" className="itemLeftHeader">
-          Profile
+        <Link to="/products" className="itemLeftHeader">
+          Sản phẩm
         </Link>
         <Link to="/cart" className="itemLeftHeader">
           Giỏ hàng
+        </Link>
+        <Link to="/profile" className="itemLeftHeader">
+          Profile
         </Link>
       </div>
       <div className="rightHeader">

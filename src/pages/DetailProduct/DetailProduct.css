@@ -1,0 +1,12 @@
+.container {
+  padding: 30px;
+  padding-top: 100px;
+  display: flex;
+}
+.img {
+  flex: 5;
+}
+.info {
+  padding: 50px;
+  flex: 5;
+}
